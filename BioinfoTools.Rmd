@@ -1,0 +1,13 @@
+---
+title: "Bioinformatic Tools"
+output: github_document
+bibliography: References.bib
+link-citations: true
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/biomed-central.csl
+---
+
+-   [ProEnd](https://github.com/AimerGDiaz/proend-scripts)
+
+-   [NBlockTester](https://github.com/AimerGDiaz/NBlockTester)
+
+-   [Selection of codes in bash, awk, perl, python and R](https://github.com/AimerGDiaz/Codes_Repository)
