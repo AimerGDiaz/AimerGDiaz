@@ -15,7 +15,7 @@ granules, and Translational regulation.
 1.  [Research experience & Publications](Rexperience.md)
 2.  [SLU Teaching Courses](SLUTeaching.md)
 3.  [Bioinformatic Tools](BioinfoTools.md)
-4.  <a href="https://aimergdiaz.github.io/aimer-thesis-interactive.html" target="_blank" rel="noopener noreferrer">Interactive
+4.  <a href="https://aimergdiaz.github.io/phd-thesis.html" target="_blank" rel="noopener noreferrer">Interactive
     PhD Thesis</a>
 
 # Scientific Outreach
