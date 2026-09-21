@@ -17,6 +17,9 @@ granules, and Translational regulation.
 3.  [Bioinformatic Tools](BioinfoTools.md)
 4.  <a href="https://aimergdiaz.github.io/phd-thesis.html" target="_blank" rel="noopener noreferrer">Interactive
     PhD Thesis</a>
+5.  <a href="https://aimergdiaz.github.io/bioart.html" target="_blank" rel="noopener noreferrer">BioArt
+    Gallery</a>
+6.  [News Coverage](https://aimergdiaz.github.io/news)
 
 # Scientific Outreach
 
@@ -31,6 +34,9 @@ Science communication blog:
 <img src="images/Cover.png" style="width: 100%;
 height: auto"/>
 <figcaption style="margin-top: 10px;">
+
+<strong>Bio-Viroloía logo</strong>
+
 </figcaption>
 </figure>
 
