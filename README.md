@@ -1,14 +1,15 @@
 Short Bio
 ================
 
-I am a Biologist and M.Sc. Bioinformatics from the [Universidad Nacional
-de Colombia](https://unal.edu.co/). Currently I am a PhD student at the
-Department of Plant Biology at [SLU](https://www.slu.se/), working in
-[Dr. Hafrén’s lab](https://andershafren.wixsite.com/website) on in
-Plant-Virus Molecular interactions. My Ph.D. research focuses on how
-plant viruses manipulate *Arabidopsis thaliana’s* post-transcriptional
-regulatory mechanisms, including RNA interference machinery, Stress
-granules, and Translational regulation.
+I am a biologist with an M.Sc. in Bioinformatics from the [Universidad
+Nacional de Colombia](https://unal.edu.co/) and a PhD in Plant Biology from the
+[Swedish University of Agricultural Sciences (SLU)](https://www.slu.se/).
+I currently work as a plant virology researcher in the [Hafrén
+Lab](https://andershafren.wixsite.com/website) at the Department of Plant
+Biology at [SLU](https://www.slu.se/). My doctoral research focused on how
+plant viruses manipulate *Arabidopsis thaliana's* post-transcriptional
+regulatory mechanisms, including RNA interference machinery, stress
+granules, and translational regulation.
 
 # Content
 
